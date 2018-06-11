@@ -1,4 +1,6 @@
 # Learn 2018 BE
+[![Build Status](https://travis-ci.org/ben-sooryen/learn2018-be.svg?branch=cit)](https://travis-ci.org/ben-sooryen/learn2018-be)
+
 
 ## Getting Started
 First, ensure you have node and mongo installed on your system.
