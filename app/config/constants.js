@@ -12,6 +12,7 @@ const defaultConfig = {
     };
   },
 
+  name: require('../../package.json').name,
   version: require('../../package.json').version,
   root: path.normalize(__dirname + '/../../..'),
   port: process.env.PORT || 8080,

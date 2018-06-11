@@ -4,7 +4,7 @@ import Constants from '../config/constants';
 class MetaController extends BaseController {
   index(req, res) {
 		res.json({
-      name: "learn2018-be",
+      name: Constants.name,
 			version: Constants.version,
 		});
 	}
