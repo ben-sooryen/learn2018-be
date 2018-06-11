@@ -1,4 +1,4 @@
-# Express & ES6 API Boilerplate
+# Learn 2018 BE
 
 ## Getting Started
 First, ensure you have node and mongo installed on your system.
